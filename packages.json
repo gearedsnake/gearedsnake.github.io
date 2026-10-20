@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Test Modpack 1",
+      "name" : "testmodpack1",
+      "version" : "1",
+      "location" : "testmodpack1.json",
+      "priority" : 0
+    }
+  ]
+}
